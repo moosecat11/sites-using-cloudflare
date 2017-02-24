@@ -119,6 +119,10 @@ Also, a list of some [iOS apps](https://www.nowsecure.com/blog/2017/02/23/cloudf
 - feedly.com
 - zoho.com
 - irccloud.com
+- crunchyroll.com
+- humblebundle.com
+- destructoid.com
+- redbubble.com
 
 
 - 000webhost.com
@@ -350,11 +354,9 @@ Also, a list of some [iOS apps](https://www.nowsecure.com/blog/2017/02/23/cloudf
 - crocko.com
 - crosswalk.com
 - crunchbase.com
-- crunchyroll.com
 - cs-cart.com
 - cssdeck.com
 - cucirca.eu
-- curse.com
 - cyanogenmod.org
 - cyberchimps.com
 - cyberpresse.ca
@@ -383,7 +385,6 @@ Also, a list of some [iOS apps](https://www.nowsecure.com/blog/2017/02/23/cloudf
 - desi-tashan.com
 - desitorrents.com
 - desmotivaciones.es
-- destructoid.com
 - deutsche-wirtschafts-nachrichten.de
 - dev-point.com
 - dhakatimes24.com
@@ -637,7 +638,6 @@ Also, a list of some [iOS apps](https://www.nowsecure.com/blog/2017/02/23/cloudf
 - hubpages.com
 - hugedomains.com
 - hugefiles.net
-- humblebundle.com
 - humoron.com
 - hvg.hu
 - icefilms.info
@@ -1001,7 +1001,6 @@ Also, a list of some [iOS apps](https://www.nowsecure.com/blog/2017/02/23/cloudf
 - readms.com
 - realfarmacy.com
 - realitatea.net
-- redbubble.com
 - re-direcciona.me
 - reduxmediia.com
 - relink.us
